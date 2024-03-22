@@ -1,4 +1,4 @@
-### I am a reent physics Bsc graduate currently completing a Data Science Bootcamp with HyperionDev, interested in a Data Science position. 
+### I am a recent physics Bsc graduate currently completing a Data Science Bootcamp with HyperionDev, interested in a Data Science position. 
 In this GitHub profile you will find exaamples of the previous coding projects I have worked on such as my Physics major project and Data Science Internship each with their own repositories explaining the project's aims and methods.
 
 
